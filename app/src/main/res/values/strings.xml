@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="ingredientTemp">
+        <item>Graham Cracker crumbs</item>
+        <item>unsalted butter, melted</item>
+        <item>granulated sugar</item>
+        <item>salt</item>
+        <item>vanilla</item>
+        <item>Nutella or other chocolate-hazelnut spread</item>
+    </string-array>
+
+    <string-array name="measureTemp">
+        <item>2 Cup</item>
+        <item>2 Cup</item>
+        <item>2 Cup</item>
+        <item>2 Cup</item>
+        <item>2 Cup</item>
+        <item>2 Cup</item>
+    </string-array>
+
+    <string name="next_button">NEXT</string>
+    <string name="previous_button">PREVIOUS</string>
+    <string name="ingredient_text">INGREDIENTS</string>
+    <string name="steps_text">STEPS</string>
+
+    <string name="appwidget_text">INGREDIENTS OF &quot;BAKING APP&quot;</string>
+</resources>
