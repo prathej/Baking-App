@@ -28,6 +28,7 @@ One of the skills you will demonstrate in this project is how to handle unexpect
 
 ## Screenshots
 
-![Screenshot 1](../master/Screens/Screen1.PNG) ![Screenshot 2](../master/Screens/Screen2.PNG)
-![Screenshot 3](../master/Screens/Screen3.PNG) ![Screenshot 4](../master/Screens/Screen4.PNG)
-![Screenshot 5](../master/Screens/Screen5.PNG) ![Screenshot 6](../master/Screens/Screen6.PNG)
+![Screenshot 1](../master/Screens/Screen1.PNG) 
+![Screenshot 2](../master/Screens/Screen2.PNG)
+![Screenshot 3](../master/Screens/Screen3.PNG)    ![Screenshot 4](../master/Screens/Screen4.PNG)
+![Screenshot 5](../master/Screens/Screen5.PNG)    ![Screenshot 6](../master/Screens/Screen6.PNG)
