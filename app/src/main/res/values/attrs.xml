@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="listPreferredItemPaddingStart">
+        <attr name="listPreferredItemPaddingStart" />
+        <attr name="android:listPreferredItemPaddingStart" />
+    </declare-styleable>
+
+    <declare-styleable name="listPreferredItemPaddingEnd">
+        <attr name="listPreferredItemPaddingEnd" />
+        <attr name="android:listPreferredItemPaddingEnd" />
+    </declare-styleable>
+</resources>
