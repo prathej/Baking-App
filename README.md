@@ -27,7 +27,3 @@ The JSON file contains the recipes' instructions, ingredients, videos and images
 One of the skills you will demonstrate in this project is how to handle unexpected input in your data -- professional developers often cannot expect polished JSON data when building an app.
 
 ## Screenshots
-
-![Screenshot 1](../master/Screens/Screen1.jpg) ![Screenshot 2](../master/Screens/Screen2.jpg)
-![Screenshot 3](../master/Screens/Screen3.jpg) ![Screenshot 4](../master/Screens/Screen4.jpg)
-![Screenshot 5](../master/Screens/Screen5.jpg) ![Screenshot 6](../master/Screens/Screen6.jpg)
